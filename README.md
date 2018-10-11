@@ -1,4 +1,4 @@
-# Rescue operation and Resource Distribution-CodeFunDo++
+# Rescue Operation and Resource Distribution-CodeFunDo++
 
 The aim is to build an android app for use by rescue and relief organisations during natural disasters. It helps with the distribution of limited resources until rescue ops are completed. 
 
